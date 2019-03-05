@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfProfile>
+  <Profile>
+    <ProfileName>Apex Legends</ProfileName>
+    <Executeables>
+      <string>r5apex.exe</string>
+      <string>easyanticheat_launcher.exe</string>
+    </Executeables>
+    <Settings>
+      <ProfileSetting>
+        <SettingNameInfo>Texture filtering - Driver Controlled LOD Bias</SettingNameInfo>
+        <SettingID>6524559</SettingID>
+        <SettingValue>0</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Texture filtering - LOD Bias</SettingNameInfo>
+        <SettingID>7573135</SettingID>
+        <SettingValue>120</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Maximum pre-rendered frames</SettingNameInfo>
+        <SettingID>8102046</SettingID>
+        <SettingValue>1</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Vertical Sync</SettingNameInfo>
+        <SettingID>11041231</SettingID>
+        <SettingValue>845218372</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Texture filtering - Quality</SettingNameInfo>
+        <SettingID>13510289</SettingID>
+        <SettingValue>20</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Antialiasing - Transparency Supersampling</SettingNameInfo>
+        <SettingID>282364549</SettingID>
+        <SettingValue>8</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>541081465</SettingID>
+        <SettingValue>120</SettingValue>
+      </ProfileSetting>
+    </Settings>
+  </Profile>
+</ArrayOfProfile>
